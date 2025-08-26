@@ -3,7 +3,6 @@
 A Power BI report that analyzes employee attrition and highlights key drivers, high-risk segments, and trends. Built for HR/People Analytics to support data-driven retention strategies.
 
 > Report file: **Company_Attrition_Analysis.pbix**  
-> (If your file is named differently, rename it for consistency.)
 
 ---
 
